@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129189890654",
+    "project_id": "vodafone-follow-up",
+    "storage_bucket": "vodafone-follow-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129189890654:android:e86ff183eaf6f1bc8182cf",
+        "android_client_info": {
+          "package_name":"com.example.Administration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129189890654-0fodththqlppe4qf3bp7u85mhnpnnq50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXV-TPuNzy0_wURezS0AWnp8YNuW-IXD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129189890654-0fodththqlppe4qf3bp7u85mhnpnnq50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129189890654-c24ufha4e94as6o3fasqv3tutv8j0q3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vodafoneFollowup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

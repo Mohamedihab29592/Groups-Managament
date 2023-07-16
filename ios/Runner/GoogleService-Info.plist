@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129189890654-c24ufha4e94as6o3fasqv3tutv8j0q3n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129189890654-c24ufha4e94as6o3fasqv3tutv8j0q3n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0XMCY9pz2LVuOMjI78qJK_2YojCEcAKg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129189890654</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vodafoneFollowup</string>
+	<key>PROJECT_ID</key>
+	<string>vodafone-follow-up</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vodafone-follow-up.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129189890654:ios:e7fb9f12e7ff7f4d8182cf</string>
+</dict>
+</plist>
