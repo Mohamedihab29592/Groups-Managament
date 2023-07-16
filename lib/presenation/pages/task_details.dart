@@ -67,6 +67,7 @@ class _TaskDetailsState extends State<TaskDetails> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         MyFormField(
+                          textCapitalization: TextCapitalization.none,
                           maxLines: 1,
                           title: 'Task Title',
                           type: TextInputType.text,
@@ -98,6 +99,7 @@ class _TaskDetailsState extends State<TaskDetails> {
                           children: [
                             Expanded(
                               child: MyFormField(
+                                textCapitalization: TextCapitalization.none,
                                 maxLines: null,
                                 title: 'Issue Details',
                                 type: TextInputType.text,
@@ -112,6 +114,7 @@ class _TaskDetailsState extends State<TaskDetails> {
                           height: 20,
                         ),
                         MyFormField(
+                          textCapitalization: TextCapitalization.none,
                           maxLines: null,
                           title: 'Action Taken',
                           readonly: false,
@@ -123,6 +126,7 @@ class _TaskDetailsState extends State<TaskDetails> {
                           height: 20,
                         ),
                         MyFormField(
+                          textCapitalization: TextCapitalization.none,
                           maxLines: 1,
                           type: TextInputType.text,
                           hint: widget.task.user,
