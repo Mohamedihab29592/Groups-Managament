@@ -72,6 +72,7 @@ class _ChangePasswordScreenState extends State<ChangePasswordScreen> {
                       ),
 
                       MyFormField(
+                        textCapitalization: TextCapitalization.none,
                         maxLines: 1,
                         title: ' ',
                         readonly: false,
@@ -87,6 +88,7 @@ class _ChangePasswordScreenState extends State<ChangePasswordScreen> {
                         },
                       ),
                       MyFormField(
+                        textCapitalization: TextCapitalization.none,
                         title: " ",
                         maxLines: 1,
                         suffixIcon: LoginCubit.get(context).suffix,
@@ -109,8 +111,8 @@ class _ChangePasswordScreenState extends State<ChangePasswordScreen> {
                         },
                       ),
                       MyFormField(
+                        textCapitalization: TextCapitalization.none,
                         isPassword: LoginCubit.get(context).isPassword,
-
                         title: '',
                         maxLines: 1,
 
