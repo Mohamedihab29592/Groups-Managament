@@ -5,7 +5,6 @@ import 'package:Administration/presenation/cubit/cubit.dart';
 import 'package:Administration/presenation/pages/charts/cubit/cubit.dart';
 import 'package:Administration/presenation/pages/layout/board.dart';
 import 'package:Administration/presenation/pages/layout/no%20Internet.dart';
-import 'package:Administration/presenation/pages/login/RegisterManger.dart';
 import 'package:Administration/presenation/pages/login/cubit/cubit.dart';
 import 'package:Administration/presenation/pages/login/login.dart';
 import 'package:firebase_core/firebase_core.dart';
