@@ -4,7 +4,7 @@ This an Flutter application that works on IOS and Android based on firebase data
 by the task follow up date also the user can edit and update tasks and change its criticality , The manager account have access to see charts and create users and set the group to manage the tasks and groups.
 
 ## Yaml
-![Screen Shot 2023-07-16 at 9 52 17 PM](https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/15c5df0f-36c8-426f-836f-25f4581ba486)
+|<img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/15c5df0f-36c8-426f-836f-25f4581ba486.jpeg" width="200"> | 
 
 ## ScreenShoots
 
@@ -15,7 +15,7 @@ Login Screen || Change password Screen || Add user Screen
 
 Manager Account View
 
-|<img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/7ffff6a0-31b7-45ab-8b21-6ff415551ad7.jpeg" width="300"> | <img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/d3ef4474-f8bc-454e-982d-cd7fe92b3c59.jpeg" width="300">|
+|<img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/7ffff6a0-31b7-45ab-8b21-6ff415551ad7.jpeg" width="200"> | <img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/d3ef4474-f8bc-454e-982d-cd7fe92b3c59.jpeg" width="200">|
 --- |---|
 
 
