@@ -15,7 +15,7 @@ Login Screen || Change password Screen || Add user Screen
 
 Manager Account View
 
-|<img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/d3ef4474-f8bc-454e-982d-cd7fe92b3c59.jpeg" width="300"> | <img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/7ffff6a0-31b7-45ab-8b21-6ff415551ad7.jpeg" width="300">|
+|<img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/7ffff6a0-31b7-45ab-8b21-6ff415551ad7.jpeg" width="300"> | <img src="https://github.com/Mohamedihab29592/Groups-Managament/assets/64233832/d3ef4474-f8bc-454e-982d-cd7fe92b3c59.jpeg" width="300">|
 --- |---|
 
 
