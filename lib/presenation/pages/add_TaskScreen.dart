@@ -61,6 +61,7 @@ class _AddTaskState extends State<AddTask> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             MyFormField(
+                              textCapitalization: TextCapitalization.none,
                               maxLines: null,
                               title: 'Title',
                               readonly: false,
@@ -104,6 +105,7 @@ class _AddTaskState extends State<AddTask> {
                               children: [
                                 Expanded(
                                   child: MyFormField(
+                                    textCapitalization: TextCapitalization.none,
                                     maxLines: null,
                                     title: 'issue Details',
                                     readonly: false,
@@ -128,6 +130,7 @@ class _AddTaskState extends State<AddTask> {
                             ),
 
                             MyFormField(
+                              textCapitalization: TextCapitalization.none,
                               maxLines: null,
                               title: 'Action Taken',
                               readonly: false,
